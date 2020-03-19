@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS Redshift_Neustar_A; Create Table Redshift_Neustar_A ( A,B,C,D,E );
+DROP TABLE IF EXISTS Redshift_Neustar_B; Create Table Redshift_Neustar_B ( F,G );
+DROP TABLE IF EXISTS Redshift_Neustar_C; Create Table Redshift_Neustar_C ( H,I,J );
+DROP TABLE IF EXISTS Redshift_Neustar_D; Create Table Redshift_Neustar_D ( K,L,M );
